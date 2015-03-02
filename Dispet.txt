@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Диспетчер</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <style>
+  .block{
+  height: 200px;
+ 
+  }
+  </style>
+  <body>
+      <ul class="nav nav-pills">
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+            Просмотр компонентов
+          <b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+      <!-- links -->
+        </ul>
+        </li>
+      </ul>
+
+
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
